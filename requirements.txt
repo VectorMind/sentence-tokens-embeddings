@@ -1,3 +1,5 @@
 jupyterlab
 sentence-transformers
 ipywidgets
+tqdm
+matplotlib
